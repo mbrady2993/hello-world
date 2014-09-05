@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-First repository
+New to GitHub and starting to learn Ruby
